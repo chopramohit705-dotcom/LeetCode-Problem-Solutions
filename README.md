@@ -16,6 +16,7 @@
 | [0009-palindrome-number](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [2469-convert-the-temperature](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
