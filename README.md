@@ -19,6 +19,7 @@
 | [0007-reverse-integer](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -54,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
