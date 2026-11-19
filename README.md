@@ -33,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0065-valid-number](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0065-valid-number/) | Hard |
 | [0412-fizz-buzz](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Stack
