@@ -19,6 +19,7 @@
 | [0007-reverse-integer](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -46,4 +47,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
