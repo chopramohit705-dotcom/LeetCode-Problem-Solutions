@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0001-two-sum/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/chopramohit705-dotcom/LeetCode-Problem-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
